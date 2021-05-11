@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620636544670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "191C4E7C",
+    "lastKnownWriteTime" : 1620719519,
+    "last_content_update" : 1620719519094,
+    "path" : "/storage/d4/workspace/LDC/SCS-VA/source/main.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "112,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

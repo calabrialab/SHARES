@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620638729925.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1602285307",
+    "id" : "CF0F9ED8",
+    "lastKnownWriteTime" : 1620718018,
+    "last_content_update" : 1620718018872,
+    "path" : "/storage/d4/workspace/LDC/SCS-MS/source/main.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "269,55",
+        "scrollLine" : "257",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
